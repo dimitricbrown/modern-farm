@@ -1,6 +1,7 @@
-export const growingPlants = []
+const growingPlants = []
 
 export const addPlant = (seed) => {
+    // Comments below are to help test if my "Corn" array successfully passed or not.
     // if (Array.isArray(seed)) {
     //     console.log("Corn is an array!")
     // } else {
